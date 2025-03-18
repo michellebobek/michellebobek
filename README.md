@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**michellebobek/michellebobek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I am Michelle Bobek, a first-year Ph.D. student and research associate in computational social science, at the Chair for Data Science and Digitization at Justus-Liebig University Giessen. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main research interests include:
+- Social media analytics
+- Community-driven fact-checking
+- Engagement with misinformation
+- Causal inference
+
+Connect with me! :handshake:	
+
+- :envelope_with_arrow:	Email: michelle.bobek@uni-giessen.de
+- :bird: X: [michelle__bobek](https://x.com/michelle__bobek)
+- :briefcase:	LinkedIn: [michellebobek](https://www.linkedin.com/in/michelle-bobek-7436b8261/)
