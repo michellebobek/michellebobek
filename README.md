@@ -6,9 +6,10 @@ I am Michelle Bobek, a first-year Ph.D. student and research associate in comput
 
 My main research interests include:
 - Social media analytics
-- Community-driven fact-checking
-- Engagement with misinformation
-- Causal inference
+- Causal Inference
+- Natural Language Processing
+
+In my projects, I examine how community-driven fact-checking measures influence engagement with misinformation.
 
 Connect with me! :handshake:	
 
