@@ -9,7 +9,7 @@ My main research interests include:
 - Causal Inference
 - Natural Language Processing
 
-In my projects, I examine how community-driven fact-checking measures influence engagement with misinformation.
+In my projects, I evaluate how the *wisdom of crowds* can help combat misinformation on social media platforms. Specifically, I examine the impact of community-based fact-checking interventions on user engagement with misinformation, using causal inference methods.
 
 Connect with me! :handshake:	
 
@@ -18,4 +18,4 @@ Connect with me! :handshake:
 - :briefcase:	LinkedIn: [michellebobek](https://www.linkedin.com/in/michelle-bobek-7436b8261/)
 
 ---
-Last updated: 03/18/2025
+Last updated: 04/02/2025
