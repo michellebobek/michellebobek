@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am Michelle Bobek, a first-year Ph.D. student and research associate in computational social science, at the Chair for Data Science and Digitization at Justus-Liebig-University Giessen. 
+I am Michelle Bobek, a second-year Ph.D. student and research associate in computational social science, at the Chair for Data Science and Digitization at Justus-Liebig-University Giessen. 
 
 My main research interests include:
 - Social Media Analytics
