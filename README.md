@@ -18,4 +18,4 @@ Connect with me! :handshake:
 - :briefcase:	LinkedIn: [michellebobek](https://www.linkedin.com/in/michelle-bobek-7436b8261/)
 
 ---
-Last updated: 04/02/2025
+Last updated: 10/17/2025
